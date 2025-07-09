@@ -356,15 +356,15 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="px"
-     inkscape:zoom="0.70710678"
-     inkscape:cx="421.43564"
-     inkscape:cy="403.75797"
+     inkscape:zoom="4.0000001"
+     inkscape:cx="74.249998"
+     inkscape:cy="822.37498"
      inkscape:window-width="1920"
      inkscape:window-height="1044"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g265"
+     inkscape:current-layer="drawing"
      showborder="true"
      inkscape:export-bgcolor="#ffffffff" />
   <title
@@ -1874,7 +1874,7 @@
            inkscape:label="Lydian"><tspan
              x="414.76398"
              y="359.81339"
-             id="tspan156">Lydian</tspan></text>
+             id="tspan3">Lydian</tspan></text>
         <text
            xml:space="preserve"
            style="font-stretch:semi-condensed;font-size:16px;line-height:0;font-family:'Nimbus Sans Narrow';-inkscape-font-specification:'Nimbus Sans Narrow Semi-Condensed';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:77.6427;display:inline"
@@ -1885,15 +1885,15 @@
            inkscape:label="Ionian"><tspan
              x="414.76398"
              y="359.81339"
-             id="tspan158"><tspan
+             id="tspan5"><tspan
                style="line-height:1"
-               id="tspan157">Ionian
+               id="tspan4">Ionian
 </tspan></tspan><tspan
              x="414.76398"
              y="371.98407"
-             id="tspan160"><tspan
+             id="tspan168"><tspan
                style="font-size:10.6667px;line-height:1;fill:#666666"
-               id="tspan159">(natural major)</tspan></tspan></text>
+               id="tspan167">(natural major)</tspan></tspan></text>
         <text
            xml:space="preserve"
            style="font-stretch:semi-condensed;font-size:16px;line-height:1;font-family:'Nimbus Sans Narrow';-inkscape-font-specification:'Nimbus Sans Narrow Semi-Condensed';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:77.6427;display:inline"
@@ -1903,7 +1903,7 @@
            transform="translate(127.56329,39.433784)"><tspan
              x="414.76398"
              y="359.81339"
-             id="tspan161">Mixolydian</tspan></text>
+             id="tspan169">Mixolydian</tspan></text>
         <text
            xml:space="preserve"
            style="font-stretch:semi-condensed;font-size:16px;line-height:1;font-family:'Nimbus Sans Narrow';-inkscape-font-specification:'Nimbus Sans Narrow Semi-Condensed';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:77.6427;display:inline"
@@ -1913,7 +1913,7 @@
            transform="translate(35.155288,-3.4592059)"><tspan
              x="414.76398"
              y="359.81339"
-             id="tspan162">Dorian</tspan></text>
+             id="tspan170">Dorian</tspan></text>
         <text
            xml:space="preserve"
            style="font-stretch:semi-condensed;font-size:16px;line-height:0;font-family:'Nimbus Sans Narrow';-inkscape-font-specification:'Nimbus Sans Narrow Semi-Condensed';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:77.6427;display:inline"
@@ -1923,15 +1923,15 @@
            transform="translate(-57.110709,33.95644)"><tspan
              x="414.76398"
              y="359.81339"
-             id="tspan164"><tspan
+             id="tspan172"><tspan
                style="line-height:1"
-               id="tspan163">Aeolian
+               id="tspan171">Aeolian
 </tspan></tspan><tspan
              x="414.76398"
              y="371.98407"
-             id="tspan166"><tspan
+             id="tspan174"><tspan
                style="font-size:10.6667px;line-height:1;fill:#666666"
-               id="tspan165">(natural minor)</tspan></tspan></text>
+               id="tspan173">(natural minor)</tspan></tspan></text>
         <text
            xml:space="preserve"
            style="font-stretch:semi-condensed;font-size:16px;line-height:1;font-family:'Nimbus Sans Narrow';-inkscape-font-specification:'Nimbus Sans Narrow Semi-Condensed';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:77.6427;display:inline"
@@ -1941,7 +1941,7 @@
            transform="translate(-80.064706,139.33579)"><tspan
              x="414.76398"
              y="359.81339"
-             id="tspan167">Phrygian</tspan></text>
+             id="tspan175">Phrygian</tspan></text>
         <text
            xml:space="preserve"
            style="font-stretch:semi-condensed;font-size:16px;line-height:1;font-family:'Nimbus Sans Narrow';-inkscape-font-specification:'Nimbus Sans Narrow Semi-Condensed';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:77.6427;display:inline"
@@ -1951,7 +1951,7 @@
            transform="translate(-16.072715,221.13079)"><tspan
              x="414.76398"
              y="359.81339"
-             id="tspan168">Locrian</tspan></text>
+             id="tspan176">Locrian</tspan></text>
       </g>
       <g
          id="melodic"
@@ -1966,22 +1966,22 @@
            inkscape:label="Altered dominant"><tspan
              x="414.76398"
              y="359.81339"
-             id="tspan170"><tspan
+             id="tspan178"><tspan
    style="line-height:1"
-   id="tspan169">Altered</tspan><tspan
+   id="tspan177">Altered</tspan><tspan
    y="359.81339"
-   id="tspan171"> </tspan></tspan><tspan
+   id="tspan179"> </tspan></tspan><tspan
              x="414.76398"
              y="375.81338"
-             id="tspan173"><tspan
+             id="tspan181"><tspan
                style="line-height:1"
-               id="tspan172">dominant
+               id="tspan180">dominant
 </tspan></tspan><tspan
              x="414.76398"
              y="387.98407"
-             id="tspan175"><tspan
+             id="tspan183"><tspan
                style="font-size:10.6667px;line-height:1;fill:#666666"
-               id="tspan174">(super Locrian)</tspan></tspan></text>
+               id="tspan182">(super Locrian)</tspan></tspan></text>
         <text
            xml:space="preserve"
            style="font-stretch:semi-condensed;font-size:16px;line-height:0;font-family:'Nimbus Sans Narrow';-inkscape-font-specification:'Nimbus Sans Narrow Semi-Condensed';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:77.6427;display:inline"
@@ -1992,22 +1992,22 @@
            inkscape:label="Lydian dominant"><tspan
              x="414.76398"
              y="359.81339"
-             id="tspan177"><tspan
+             id="tspan185"><tspan
    style="line-height:1"
-   id="tspan176">Lydian</tspan><tspan
+   id="tspan184">Lydian</tspan><tspan
    y="359.81339"
-   id="tspan178"> </tspan></tspan><tspan
+   id="tspan186"> </tspan></tspan><tspan
              x="414.76398"
              y="375.81338"
-             id="tspan180"><tspan
+             id="tspan188"><tspan
                style="line-height:1"
-               id="tspan179">dominant
+               id="tspan187">dominant
 </tspan></tspan><tspan
              x="414.76398"
              y="387.98407"
-             id="tspan182"><tspan
+             id="tspan190"><tspan
                style="font-size:10.6667px;line-height:1;fill:#666666"
-               id="tspan181">(Acoustic)</tspan></tspan></text>
+               id="tspan189">(Acoustic)</tspan></tspan></text>
         <text
            xml:space="preserve"
            style="font-stretch:semi-condensed;font-size:16px;line-height:1;font-family:'Nimbus Sans Narrow';-inkscape-font-specification:'Nimbus Sans Narrow Semi-Condensed';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:77.6427;display:inline"
@@ -2018,12 +2018,12 @@
            inkscape:label="Melodic minor"><tspan
              x="414.76398"
              y="359.81339"
-             id="tspan183">Melodic<tspan
+             id="tspan191">Melodic<tspan
    y="359.81339"
-   id="tspan184"> </tspan></tspan><tspan
+   id="tspan192"> </tspan></tspan><tspan
              x="414.76398"
              y="375.81338"
-             id="tspan185">minor</tspan></text>
+             id="tspan193">minor</tspan></text>
         <text
            xml:space="preserve"
            style="font-stretch:semi-condensed;font-size:16px;line-height:0;font-family:'Nimbus Sans Narrow';-inkscape-font-specification:'Nimbus Sans Narrow Semi-Condensed';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:77.6427;display:inline"
@@ -2034,22 +2034,22 @@
            inkscape:label="Aeolian dominant"><tspan
              x="414.76398"
              y="359.81339"
-             id="tspan187"><tspan
+             id="tspan195"><tspan
    style="line-height:1"
-   id="tspan186">Aeolian</tspan><tspan
+   id="tspan194">Aeolian</tspan><tspan
    y="359.81339"
-   id="tspan188"> </tspan></tspan><tspan
+   id="tspan196"> </tspan></tspan><tspan
              x="414.76398"
              y="375.81338"
-             id="tspan190"><tspan
+             id="tspan198"><tspan
                style="line-height:1"
-               id="tspan189">dominant
+               id="tspan197">dominant
 </tspan></tspan><tspan
              x="414.76398"
              y="387.98407"
-             id="tspan192"><tspan
+             id="tspan200"><tspan
                style="font-size:10.6667px;line-height:1;fill:#666666"
-               id="tspan191">(melodic major)</tspan></tspan></text>
+               id="tspan199">(melodic major)</tspan></tspan></text>
         <text
            xml:space="preserve"
            style="font-stretch:semi-condensed;font-size:16px;line-height:0;font-family:'Nimbus Sans Narrow';-inkscape-font-specification:'Nimbus Sans Narrow Semi-Condensed';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:77.6427;display:inline"
@@ -2060,23 +2060,23 @@
            inkscape:label="Dorian ♭2"><tspan
              x="414.76398"
              y="359.81339"
-             id="tspan196"><tspan
+             id="tspan204"><tspan
                style="line-height:1"
-               id="tspan193">Dorian </tspan><tspan
+               id="tspan201">Dorian </tspan><tspan
                style="line-height:1"
-               id="tspan194">♭</tspan><tspan
+               id="tspan202">♭</tspan><tspan
                style="line-height:1"
-               id="tspan195">2
+               id="tspan203">2
 </tspan></tspan><tspan
              x="414.76398"
              y="372.42957"
-             id="tspan200"><tspan
+             id="tspan208"><tspan
                style="font-size:10.6667px;line-height:1;fill:#666666"
-               id="tspan197">(Phrygian </tspan><tspan
+               id="tspan205">(Phrygian </tspan><tspan
                style="font-size:10.6667px;line-height:1;fill:#666666"
-               id="tspan198">♮</tspan><tspan
+               id="tspan206">♮</tspan><tspan
                style="font-size:10.6667px;line-height:1;fill:#666666"
-               id="tspan199">6)</tspan></tspan></text>
+               id="tspan207">6)</tspan></tspan></text>
         <text
            xml:space="preserve"
            style="font-stretch:semi-condensed;font-size:16px;line-height:1;font-family:'Nimbus Sans Narrow';-inkscape-font-specification:'Nimbus Sans Narrow Semi-Condensed';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:77.6427;display:inline"
@@ -2087,10 +2087,10 @@
            inkscape:label="Half-diminished"><tspan
              x="414.76398"
              y="359.81339"
-             id="tspan201">Half-</tspan><tspan
+             id="tspan209">Half-</tspan><tspan
              x="414.76398"
              y="375.81338"
-             id="tspan202">diminished</tspan></text>
+             id="tspan210">diminished</tspan></text>
         <text
            xml:space="preserve"
            style="font-stretch:semi-condensed;font-size:16px;line-height:1;font-family:'Nimbus Sans Narrow';-inkscape-font-specification:'Nimbus Sans Narrow Semi-Condensed';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:77.6427;display:inline"
@@ -2101,12 +2101,12 @@
            inkscape:label="Lydian augmented"><tspan
              x="414.76398"
              y="359.81339"
-             id="tspan203">Lydian<tspan
+             id="tspan211">Lydian<tspan
    y="359.81339"
-   id="tspan204"> </tspan></tspan><tspan
+   id="tspan212"> </tspan></tspan><tspan
              x="414.76398"
              y="375.81338"
-             id="tspan205">augmented</tspan></text>
+             id="tspan213">augmented</tspan></text>
       </g>
       <g
          id="g252"
@@ -2124,12 +2124,12 @@
              inkscape:label="Ionian augmented"><tspan
                x="414.76398"
                y="359.81339"
-               id="tspan206">Ionian<tspan
+               id="tspan214">Ionian<tspan
    y="359.81339"
-   id="tspan207"> </tspan></tspan><tspan
+   id="tspan215"> </tspan></tspan><tspan
                x="414.76398"
                y="375.81338"
-               id="tspan208">augmented</tspan></text>
+               id="tspan216">augmented</tspan></text>
           <text
              xml:space="preserve"
              style="font-stretch:semi-condensed;font-size:16px;line-height:0;font-family:'Nimbus Sans Narrow';-inkscape-font-specification:'Nimbus Sans Narrow Semi-Condensed';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:77.6427;display:inline"
@@ -2140,22 +2140,22 @@
              inkscape:label="Altered diminished"><tspan
                x="414.76398"
                y="359.81339"
-               id="tspan210"><tspan
+               id="tspan218"><tspan
    style="line-height:1"
-   id="tspan209">Altered</tspan><tspan
+   id="tspan217">Altered</tspan><tspan
    y="359.81339"
-   id="tspan211"> </tspan></tspan><tspan
+   id="tspan219"> </tspan></tspan><tspan
                x="414.76398"
                y="375.81338"
-               id="tspan213"><tspan
+               id="tspan221"><tspan
                  style="line-height:1"
-                 id="tspan212">diminished
+                 id="tspan220">diminished
 </tspan></tspan><tspan
                x="414.76398"
                y="387.98407"
-               id="tspan215"><tspan
+               id="tspan223"><tspan
                  style="font-size:10.6667px;line-height:1;fill:#666666"
-                 id="tspan214">(ultra Locrian)</tspan></tspan></text>
+                 id="tspan222">(ultra Locrian)</tspan></tspan></text>
           <text
              xml:space="preserve"
              style="font-stretch:semi-condensed;font-size:16px;line-height:1;font-family:'Nimbus Sans Narrow';-inkscape-font-specification:'Nimbus Sans Narrow Semi-Condensed';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:77.6427;display:inline"
@@ -2166,12 +2166,12 @@
              inkscape:label="Ukrainian Dorian"><tspan
                x="414.76398"
                y="359.81339"
-               id="tspan216">Ukrainian<tspan
+               id="tspan224">Ukrainian<tspan
    y="359.81339"
-   id="tspan217"> </tspan></tspan><tspan
+   id="tspan225"> </tspan></tspan><tspan
                x="414.76398"
                y="375.81338"
-               id="tspan218">Dorian</tspan></text>
+               id="tspan226">Dorian</tspan></text>
           <text
              xml:space="preserve"
              style="font-stretch:semi-condensed;font-size:16px;line-height:1;font-family:'Nimbus Sans Narrow';-inkscape-font-specification:'Nimbus Sans Narrow Semi-Condensed';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:77.6427;display:inline"
@@ -2182,12 +2182,12 @@
              inkscape:label="Harmonic minor"><tspan
                x="414.76398"
                y="359.81339"
-               id="tspan219">Harmonic<tspan
+               id="tspan227">Harmonic<tspan
    y="359.81339"
-   id="tspan220"> </tspan></tspan><tspan
+   id="tspan228"> </tspan></tspan><tspan
                x="414.76398"
                y="375.81338"
-               id="tspan221">minor</tspan></text>
+               id="tspan229">minor</tspan></text>
           <text
              xml:space="preserve"
              style="font-stretch:semi-condensed;font-size:16px;line-height:1;font-family:'Nimbus Sans Narrow';-inkscape-font-specification:'Nimbus Sans Narrow Semi-Condensed';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:77.6427;display:inline"
@@ -2198,12 +2198,12 @@
              inkscape:label="Phrygian dominant"><tspan
                x="414.76398"
                y="359.81339"
-               id="tspan222">Phrygian<tspan
+               id="tspan230">Phrygian<tspan
    y="359.81339"
-   id="tspan223"> </tspan></tspan><tspan
+   id="tspan231"> </tspan></tspan><tspan
                x="414.76398"
                y="375.81338"
-               id="tspan224">dominant</tspan></text>
+               id="tspan232">dominant</tspan></text>
           <text
              xml:space="preserve"
              style="font-stretch:semi-condensed;font-size:16px;line-height:1;font-family:'Nimbus Sans Narrow';-inkscape-font-specification:'Nimbus Sans Narrow Semi-Condensed';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:77.6427;display:inline"
@@ -2214,7 +2214,7 @@
              inkscape:label="Locrian ♮6"><tspan
                x="414.76398"
                y="359.81339"
-               id="tspan225">Locrian ♮6</tspan></text>
+               id="tspan233">Locrian ♮6</tspan></text>
           <text
              xml:space="preserve"
              style="font-stretch:semi-condensed;font-size:16px;line-height:1;font-family:'Nimbus Sans Narrow';-inkscape-font-specification:'Nimbus Sans Narrow Semi-Condensed';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:77.6427;display:inline"
@@ -2225,7 +2225,7 @@
              inkscape:label="Lydian ♯2"><tspan
                x="414.76398"
                y="359.81339"
-               id="tspan226">Lydian ♯2</tspan></text>
+               id="tspan234">Lydian ♯2</tspan></text>
         </g>
         <g
            id="g57"
@@ -2240,12 +2240,12 @@
              inkscape:label="Harmonic major"><tspan
                x="414.76398"
                y="359.81339"
-               id="tspan227">Harmonic<tspan
+               id="tspan235">Harmonic<tspan
    y="359.81339"
-   id="tspan228"> </tspan></tspan><tspan
+   id="tspan236"> </tspan></tspan><tspan
                x="414.76398"
                y="375.81338"
-               id="tspan229">major</tspan></text>
+               id="tspan237">major</tspan></text>
           <text
              xml:space="preserve"
              style="font-stretch:semi-condensed;font-size:16px;line-height:1;font-family:'Nimbus Sans Narrow';-inkscape-font-specification:'Nimbus Sans Narrow Semi-Condensed';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:77.6427;display:inline"
@@ -2256,23 +2256,42 @@
              inkscape:label="Mixolydian ♭2"><tspan
                x="414.76398"
                y="359.81339"
-               id="tspan230">Mixolydian<tspan
+               id="tspan238">Mixolydian<tspan
    y="359.81339"
-   id="tspan231"> </tspan></tspan><tspan
+   id="tspan239"> </tspan></tspan><tspan
                x="414.76398"
                y="376.48163"
-               id="tspan232">♭2</tspan></text>
+               id="tspan240">♭2</tspan></text>
           <text
              xml:space="preserve"
-             style="font-stretch:semi-condensed;font-size:16px;line-height:1;font-family:'Nimbus Sans Narrow';-inkscape-font-specification:'Nimbus Sans Narrow Semi-Condensed';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:77.6427;display:inline"
+             style="font-stretch:semi-condensed;font-size:16px;line-height:0;font-family:'Nimbus Sans Narrow';-inkscape-font-specification:'Nimbus Sans Narrow Semi-Condensed';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:77.6427;display:inline"
              x="414.76398"
              y="359.81339"
-             id="text59"
-             transform="translate(-255.56871,-30.567551)"
-             inkscape:label="Dorian ♭5"><tspan
+             id="text12"
+             transform="translate(-255.5527,-45.931311)"
+             inkscape:label="Dorian diminished"><tspan
                x="414.76398"
                y="359.81339"
-               id="tspan233">Dorian ♭5</tspan></text>
+               id="tspan242"><tspan
+   style="line-height:1"
+   id="tspan241">Dorian</tspan><tspan
+   y="359.81339"
+   id="tspan243"> </tspan></tspan><tspan
+               x="414.76398"
+               y="375.81338"
+               id="tspan245"><tspan
+                 style="line-height:1"
+                 id="tspan244">diminished
+</tspan></tspan><tspan
+               x="414.76398"
+               y="388.42957"
+               id="tspan249"><tspan
+                 style="font-size:10.6667px;line-height:1;fill:#666666"
+                 id="tspan246">(Dorian </tspan><tspan
+                 style="font-size:10.6667px;line-height:1;fill:#666666"
+                 id="tspan247">♭</tspan><tspan
+                 style="font-size:10.6667px;line-height:1;fill:#666666"
+                 id="tspan248">5)</tspan></tspan></text>
           <text
              xml:space="preserve"
              style="font-stretch:semi-condensed;font-size:16px;line-height:1;font-family:'Nimbus Sans Narrow';-inkscape-font-specification:'Nimbus Sans Narrow Semi-Condensed';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:77.6427;display:inline"
@@ -2283,17 +2302,17 @@
              inkscape:label="Lydian Augmented ♯2"><tspan
                x="414.76398"
                y="359.81339"
-               id="tspan234">Lydian<tspan
+               id="tspan250">Lydian<tspan
    y="359.81339"
-   id="tspan235"> </tspan></tspan><tspan
+   id="tspan251"> </tspan></tspan><tspan
                x="414.76398"
                y="376.48163"
-               id="tspan236">Augmented<tspan
+               id="tspan252">Augmented<tspan
    y="376.48163"
-   id="tspan237"> </tspan></tspan><tspan
+   id="tspan253"> </tspan></tspan><tspan
                x="414.76398"
                y="393.14987"
-               id="tspan238">♯2</tspan></text>
+               id="tspan254">♯2</tspan></text>
           <text
              xml:space="preserve"
              style="font-stretch:semi-condensed;font-size:16px;line-height:0;font-family:'Nimbus Sans Narrow';-inkscape-font-specification:'Nimbus Sans Narrow Semi-Condensed';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:77.6427;display:inline"
@@ -2304,19 +2323,19 @@
              inkscape:label="Phrygian ♭4"><tspan
                x="414.76398"
                y="359.81339"
-               id="tspan242"><tspan
+               id="tspan258"><tspan
                  style="line-height:1"
-                 id="tspan239">Phrygian </tspan><tspan
+                 id="tspan255">Phrygian </tspan><tspan
                  style="line-height:1"
-                 id="tspan240">♭</tspan><tspan
+                 id="tspan256">♭</tspan><tspan
                  style="line-height:1"
-                 id="tspan241">4
+                 id="tspan257">4
 </tspan></tspan><tspan
                x="414.76398"
                y="371.98407"
-               id="tspan244"><tspan
+               id="tspan260"><tspan
                  style="font-size:10.6667px;line-height:1;fill:#666666"
-                 id="tspan243">(super Phrygian)</tspan></tspan></text>
+                 id="tspan259">(super Phrygian)</tspan></tspan></text>
           <text
              xml:space="preserve"
              style="font-stretch:semi-condensed;font-size:16px;line-height:1;font-family:'Nimbus Sans Narrow';-inkscape-font-specification:'Nimbus Sans Narrow Semi-Condensed';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:77.6427;display:inline"
@@ -2327,7 +2346,7 @@
              inkscape:label="Locrian 𝄫7"><tspan
                x="414.76398"
                y="359.81339"
-               id="tspan245">Locrian 𝄫7</tspan></text>
+               id="tspan261">Locrian 𝄫7</tspan></text>
           <text
              xml:space="preserve"
              style="font-stretch:semi-condensed;font-size:16px;line-height:0;font-family:'Nimbus Sans Narrow';-inkscape-font-specification:'Nimbus Sans Narrow Semi-Condensed';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:77.6427;display:inline"
@@ -2338,25 +2357,25 @@
              inkscape:label="Lydian minor"><tspan
                x="414.76398"
                y="359.81339"
-               id="tspan247"><tspan
+               id="tspan263"><tspan
                  style="line-height:1"
-                 id="tspan246">Lydian
+                 id="tspan262">Lydian
 </tspan></tspan><tspan
                x="414.76398"
                y="375.81338"
-               id="tspan249">minor<tspan
+               id="tspan265">minor<tspan
    style="line-height:1"
-   id="tspan248">
+   id="tspan264">
 </tspan></tspan><tspan
                x="414.76398"
                y="388.42957"
-               id="tspan253"><tspan
+               id="tspan269"><tspan
                  style="font-size:10.6667px;line-height:1;fill:#666666"
-                 id="tspan250">(Lydian </tspan><tspan
+                 id="tspan266">(Lydian </tspan><tspan
                  style="font-size:10.6667px;line-height:1;fill:#666666"
-                 id="tspan251">♭</tspan><tspan
+                 id="tspan267">♭</tspan><tspan
                  style="font-size:10.6667px;line-height:1;fill:#666666"
-                 id="tspan252">3)</tspan></tspan></text>
+                 id="tspan268">3)</tspan></tspan></text>
         </g>
         <g
            id="g263"
@@ -2371,17 +2390,17 @@
              inkscape:label="Double harmonic major"><tspan
                x="414.76398"
                y="359.81339"
-               id="tspan254">Double<tspan
+               id="tspan270">Double<tspan
    y="359.81339"
-   id="tspan255"> </tspan></tspan><tspan
+   id="tspan271"> </tspan></tspan><tspan
                x="414.76398"
                y="375.81338"
-               id="tspan256">harmonic<tspan
+               id="tspan272">harmonic<tspan
    y="375.81338"
-   id="tspan257"> </tspan></tspan><tspan
+   id="tspan273"> </tspan></tspan><tspan
                x="414.76398"
                y="391.81338"
-               id="tspan258">major</tspan></text>
+               id="tspan274">major</tspan></text>
           <text
              xml:space="preserve"
              style="font-stretch:semi-condensed;font-size:16px;line-height:0;font-family:'Nimbus Sans Narrow';-inkscape-font-specification:'Nimbus Sans Narrow Semi-Condensed';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:77.6427;display:inline"
@@ -2392,28 +2411,28 @@
              inkscape:label="Hungarian minor"><tspan
                x="414.76398"
                y="359.81339"
-               id="tspan260"><tspan
+               id="tspan276"><tspan
                  style="line-height:1"
-                 id="tspan259">Hungarian
+                 id="tspan275">Hungarian
 </tspan></tspan><tspan
                x="414.76398"
                y="375.81338"
-               id="tspan262">minor<tspan
+               id="tspan278">minor<tspan
    style="line-height:1"
-   id="tspan261">
+   id="tspan277">
 </tspan></tspan><tspan
                x="414.76398"
                y="387.98407"
-               id="tspan264"><tspan
+               id="tspan280"><tspan
    style="font-size:10.6667px;line-height:1;fill:#666666"
-   id="tspan263">(double harmonic</tspan><tspan
+   id="tspan279">(double harmonic</tspan><tspan
    y="387.98407"
-   id="tspan265"> </tspan></tspan><tspan
+   id="tspan281"> </tspan></tspan><tspan
                x="414.76398"
                y="398.65076"
-               id="tspan267"><tspan
+               id="tspan283"><tspan
                  style="font-size:10.6667px;line-height:1;fill:#666666"
-                 id="tspan266">minor)</tspan></tspan></text>
+                 id="tspan282">minor)</tspan></tspan></text>
           <text
              xml:space="preserve"
              style="font-stretch:semi-condensed;font-size:16px;line-height:1;font-family:'Nimbus Sans Narrow';-inkscape-font-specification:'Nimbus Sans Narrow Semi-Condensed';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:77.6427;display:inline"
@@ -2424,12 +2443,12 @@
              inkscape:label="Locrian 𝄫3𝄫7"><tspan
                x="414.76398"
                y="359.81339"
-               id="tspan268">Locrian<tspan
+               id="tspan284">Locrian<tspan
    y="359.81339"
-   id="tspan269"> </tspan></tspan><tspan
+   id="tspan285"> </tspan></tspan><tspan
                x="414.76398"
                y="377.12541"
-               id="tspan270">𝄫3𝄫7</tspan></text>
+               id="tspan286">𝄫3𝄫7</tspan></text>
           <text
              xml:space="preserve"
              style="font-stretch:semi-condensed;font-size:16px;line-height:1;font-family:'Nimbus Sans Narrow';-inkscape-font-specification:'Nimbus Sans Narrow Semi-Condensed';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:77.6427;display:inline"
@@ -2440,12 +2459,12 @@
              inkscape:label="Ultra Phrygian"><tspan
                x="414.76398"
                y="359.81339"
-               id="tspan271">Ultra<tspan
+               id="tspan287">Ultra<tspan
    y="359.81339"
-   id="tspan272"> </tspan></tspan><tspan
+   id="tspan288"> </tspan></tspan><tspan
                x="414.76398"
                y="375.81338"
-               id="tspan273">Phrygian</tspan></text>
+               id="tspan289">Phrygian</tspan></text>
           <text
              xml:space="preserve"
              style="font-stretch:semi-condensed;font-size:16px;line-height:1;font-family:'Nimbus Sans Narrow';-inkscape-font-specification:'Nimbus Sans Narrow Semi-Condensed';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:77.6427;display:inline"
@@ -2456,17 +2475,17 @@
              inkscape:label="Ionian augmented ♯2"><tspan
                x="414.76398"
                y="359.81339"
-               id="tspan274">Ionian<tspan
+               id="tspan290">Ionian<tspan
    y="359.81339"
-   id="tspan275"> </tspan></tspan><tspan
+   id="tspan291"> </tspan></tspan><tspan
                x="414.76398"
                y="376.48163"
-               id="tspan276">augmented<tspan
+               id="tspan292">augmented<tspan
    y="376.48163"
-   id="tspan277"> </tspan></tspan><tspan
+   id="tspan293"> </tspan></tspan><tspan
                x="414.76398"
                y="393.14987"
-               id="tspan278">♯2</tspan></text>
+               id="tspan294">♯2</tspan></text>
           <text
              xml:space="preserve"
              style="font-stretch:semi-condensed;font-size:16px;line-height:1;font-family:'Nimbus Sans Narrow';-inkscape-font-specification:'Nimbus Sans Narrow Semi-Condensed';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:77.6427;display:inline"
@@ -2477,7 +2496,7 @@
              inkscape:label="Lydian ♯2♯6"><tspan
                x="414.76398"
                y="359.81339"
-               id="tspan279">Lydian ♯2♯6</tspan></text>
+               id="tspan295">Lydian ♯2♯6</tspan></text>
           <text
              xml:space="preserve"
              style="font-stretch:semi-condensed;font-size:16px;line-height:0;font-family:'Nimbus Sans Narrow';-inkscape-font-specification:'Nimbus Sans Narrow Semi-Condensed';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:77.6427;display:inline"
@@ -2488,15 +2507,15 @@
              inkscape:label="Oriental"><tspan
                x="414.76398"
                y="359.81339"
-               id="tspan281"><tspan
+               id="tspan297"><tspan
                  style="line-height:1"
-                 id="tspan280">Oriental
+                 id="tspan296">Oriental
 </tspan></tspan><tspan
                x="414.76398"
                y="371.98407"
-               id="tspan283"><tspan
+               id="tspan299"><tspan
                  style="font-size:10.6667px;line-height:1;fill:#666666"
-                 id="tspan282">(Asian)</tspan></tspan></text>
+                 id="tspan298">(Asian)</tspan></tspan></text>
         </g>
       </g>
     </g>
@@ -2605,7 +2624,7 @@
              inkscape:label="♭"><tspan
                x="414.76398"
                y="359.81339"
-               id="tspan284">♭</tspan></text>
+               id="tspan300">♭</tspan></text>
           <text
              xml:space="preserve"
              style="font-stretch:semi-condensed;font-size:16px;line-height:1;font-family:'Nimbus Sans Narrow';-inkscape-font-specification:'Nimbus Sans Narrow Semi-Condensed';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:77.6427;display:inline"
@@ -2616,7 +2635,7 @@
              inkscape:label="♯"><tspan
                x="414.76398"
                y="359.81339"
-               id="tspan285">♯</tspan></text>
+               id="tspan301">♯</tspan></text>
         </g>
         <g
            id="g405"
@@ -2632,7 +2651,7 @@
              inkscape:label="4"><tspan
                x="414.76398"
                y="359.81339"
-               id="tspan286">4</tspan></text>
+               id="tspan302">4</tspan></text>
           <text
              xml:space="preserve"
              style="font-stretch:semi-condensed;font-size:16px;line-height:1;font-family:'Nimbus Sans Narrow';-inkscape-font-specification:'Nimbus Sans Narrow Semi-Condensed';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:77.6427;display:inline"
@@ -2643,7 +2662,7 @@
              inkscape:label="7"><tspan
                x="414.76398"
                y="359.81339"
-               id="tspan287">7</tspan></text>
+               id="tspan303">7</tspan></text>
           <text
              xml:space="preserve"
              style="font-stretch:semi-condensed;font-size:16px;line-height:1;font-family:'Nimbus Sans Narrow';-inkscape-font-specification:'Nimbus Sans Narrow Semi-Condensed';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:77.6427;display:inline"
@@ -2654,7 +2673,7 @@
              inkscape:label="3"><tspan
                x="414.76398"
                y="359.81339"
-               id="tspan288">3</tspan></text>
+               id="tspan304">3</tspan></text>
           <text
              xml:space="preserve"
              style="font-stretch:semi-condensed;font-size:16px;line-height:1;font-family:'Nimbus Sans Narrow';-inkscape-font-specification:'Nimbus Sans Narrow Semi-Condensed';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:77.6427;display:inline"
@@ -2665,7 +2684,7 @@
              inkscape:label="6"><tspan
                x="414.76398"
                y="359.81339"
-               id="tspan289">6</tspan></text>
+               id="tspan305">6</tspan></text>
           <text
              xml:space="preserve"
              style="font-stretch:semi-condensed;font-size:16px;line-height:1;font-family:'Nimbus Sans Narrow';-inkscape-font-specification:'Nimbus Sans Narrow Semi-Condensed';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:77.6427;display:inline"
@@ -2676,7 +2695,7 @@
              inkscape:label="2"><tspan
                x="414.76398"
                y="359.81339"
-               id="tspan290">2</tspan></text>
+               id="tspan306">2</tspan></text>
           <text
              xml:space="preserve"
              style="font-stretch:semi-condensed;font-size:16px;line-height:1;font-family:'Nimbus Sans Narrow';-inkscape-font-specification:'Nimbus Sans Narrow Semi-Condensed';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:77.6427;display:inline"
@@ -2687,7 +2706,7 @@
              inkscape:label="5"><tspan
                x="414.76398"
                y="359.81339"
-               id="tspan291">5</tspan></text>
+               id="tspan307">5</tspan></text>
           <text
              xml:space="preserve"
              style="font-stretch:semi-condensed;font-size:16px;line-height:1;font-family:'Nimbus Sans Narrow';-inkscape-font-specification:'Nimbus Sans Narrow Semi-Condensed';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:77.6427;display:inline"
@@ -2698,7 +2717,7 @@
              inkscape:label="1"><tspan
                x="414.76398"
                y="359.81339"
-               id="tspan292">1</tspan></text>
+               id="tspan308">1</tspan></text>
         </g>
       </g>
       <g
@@ -3896,7 +3915,7 @@
              inkscape:label="♭"><tspan
                x="414.76398"
                y="359.81339"
-               id="tspan293">♭</tspan></text>
+               id="tspan309">♭</tspan></text>
           <text
              xml:space="preserve"
              style="font-stretch:semi-condensed;font-size:16px;line-height:1;font-family:'Nimbus Sans Narrow';-inkscape-font-specification:'Nimbus Sans Narrow Semi-Condensed';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:77.6427;display:inline"
@@ -3907,7 +3926,7 @@
              inkscape:label="♯"><tspan
                x="414.76398"
                y="359.81339"
-               id="tspan294">♯</tspan></text>
+               id="tspan310">♯</tspan></text>
         </g>
         <g
            id="g104"
@@ -3923,7 +3942,7 @@
              inkscape:label="4"><tspan
                x="414.76398"
                y="359.81339"
-               id="tspan295">4</tspan></text>
+               id="tspan311">4</tspan></text>
           <text
              xml:space="preserve"
              style="font-stretch:semi-condensed;font-size:16px;line-height:1;font-family:'Nimbus Sans Narrow';-inkscape-font-specification:'Nimbus Sans Narrow Semi-Condensed';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:77.6427;display:inline"
@@ -3934,7 +3953,7 @@
              inkscape:label="7"><tspan
                x="414.76398"
                y="359.81339"
-               id="tspan296">7</tspan></text>
+               id="tspan312">7</tspan></text>
           <text
              xml:space="preserve"
              style="font-stretch:semi-condensed;font-size:16px;line-height:1;font-family:'Nimbus Sans Narrow';-inkscape-font-specification:'Nimbus Sans Narrow Semi-Condensed';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:77.6427;display:inline"
@@ -3945,7 +3964,7 @@
              inkscape:label="3"><tspan
                x="414.76398"
                y="359.81339"
-               id="tspan297">3</tspan></text>
+               id="tspan313">3</tspan></text>
           <text
              xml:space="preserve"
              style="font-stretch:semi-condensed;font-size:16px;line-height:1;font-family:'Nimbus Sans Narrow';-inkscape-font-specification:'Nimbus Sans Narrow Semi-Condensed';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:77.6427;display:inline"
@@ -3956,7 +3975,7 @@
              inkscape:label="6"><tspan
                x="414.76398"
                y="359.81339"
-               id="tspan298">6</tspan></text>
+               id="tspan314">6</tspan></text>
           <text
              xml:space="preserve"
              style="font-stretch:semi-condensed;font-size:16px;line-height:1;font-family:'Nimbus Sans Narrow';-inkscape-font-specification:'Nimbus Sans Narrow Semi-Condensed';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:77.6427;display:inline"
@@ -3967,7 +3986,7 @@
              inkscape:label="2"><tspan
                x="414.76398"
                y="359.81339"
-               id="tspan299">2</tspan></text>
+               id="tspan315">2</tspan></text>
           <text
              xml:space="preserve"
              style="font-stretch:semi-condensed;font-size:16px;line-height:1;font-family:'Nimbus Sans Narrow';-inkscape-font-specification:'Nimbus Sans Narrow Semi-Condensed';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:77.6427;display:inline"
@@ -3978,7 +3997,7 @@
              inkscape:label="5"><tspan
                x="414.76398"
                y="359.81339"
-               id="tspan300">5</tspan></text>
+               id="tspan316">5</tspan></text>
           <text
              xml:space="preserve"
              style="font-stretch:semi-condensed;font-size:16px;line-height:1;font-family:'Nimbus Sans Narrow';-inkscape-font-specification:'Nimbus Sans Narrow Semi-Condensed';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:77.6427;display:inline"
@@ -3989,7 +4008,7 @@
              inkscape:label="1"><tspan
                x="414.76398"
                y="359.81339"
-               id="tspan301">1</tspan></text>
+               id="tspan317">1</tspan></text>
         </g>
       </g>
       <g
@@ -4379,7 +4398,7 @@
            inkscape:label="readable"><tspan
              x="414.76398"
              y="359.81339"
-             id="tspan302">axis of symmetry</tspan></text>
+             id="tspan318">axis of symmetry</tspan></text>
         <text
            xml:space="preserve"
            style="font-stretch:semi-condensed;font-size:10.6667px;line-height:1;font-family:'Nimbus Sans Narrow';-inkscape-font-specification:'Nimbus Sans Narrow Semi-Condensed';text-align:center;writing-mode:tb-rl;direction:ltr;text-anchor:middle;white-space:pre;inline-size:77.6427;display:inline;opacity:0.6"
@@ -4390,7 +4409,7 @@
            inkscape:label="mirrored"><tspan
              x="414.76398"
              y="359.81339"
-             id="tspan303">axis of symmetry</tspan></text>
+             id="tspan319">axis of symmetry</tspan></text>
       </g>
       <text
          xml:space="preserve"
@@ -4402,31 +4421,31 @@
          inkscape:label="copyright"><tspan
            x="587.34943"
            y="415.14166"
-           id="tspan304">Heptatonic circle (v1.0.0)
+           id="tspan320">Heptatonic circle (v1.0.1)
 </tspan><tspan
            x="587.34943"
            y="423.14167"
-           id="tspan305">© 2025 by Maronarius
+           id="tspan321">© 2025 by Maronarius
 </tspan><tspan
            x="587.34943"
            y="431.14167"
-           id="tspan306">is licensed under CC BY-SA 4.0.
+           id="tspan322">is licensed under CC BY-SA 4.0.
 </tspan><tspan
            x="587.34943"
            y="439.14167"
-           id="tspan307">To view a copy of this license, visit
+           id="tspan323">To view a copy of this license, visit
 </tspan><tspan
            x="587.34943"
            y="447.14167"
-           id="tspan308">https://creativecommons.org/licenses/by-sa/4.0/
+           id="tspan324">https://creativecommons.org/licenses/by-sa/4.0/
 </tspan><tspan
            x="587.34943"
            y="455.14167"
-           id="tspan309">
+           id="tspan325">
 </tspan><tspan
            x="587.34943"
            y="463.14167"
-           id="tspan310">SVG is available here: github.com/maronarius/heptatonic-circle</tspan></text>
+           id="tspan326">SVG is available here: github.com/maronarius/heptatonic-circle</tspan></text>
     </g>
   </g>
   <!-- default stroke -->
