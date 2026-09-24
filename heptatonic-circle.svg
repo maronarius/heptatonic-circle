@@ -8,8 +8,8 @@
    sodipodi:docname="heptatonic-circle.svg"
    inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
    inkscape:export-filename="heptatonic-circle.png"
-   inkscape:export-xdpi="96"
-   inkscape:export-ydpi="96"
+   inkscape:export-xdpi="192"
+   inkscape:export-ydpi="192"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -357,7 +357,7 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="px"
      inkscape:zoom="0.5"
-     inkscape:cx="454"
+     inkscape:cx="453"
      inkscape:cy="495"
      inkscape:window-width="1536"
      inkscape:window-height="836"
@@ -1712,7 +1712,7 @@
            inkscape:label="Lydian"><tspan
              x="414.76398"
              y="359.81339"
-             id="tspan5">Lydian</tspan></text>
+             id="tspan1">Lydian</tspan></text>
         <text
            xml:space="preserve"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:extra-condensed;font-size:16px;line-height:0;font-family:'NotoSans Nerd Font';-inkscape-font-specification:'NotoSans Nerd Font Extra-Condensed';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:76;display:inline"
@@ -1723,15 +1723,15 @@
            inkscape:label="Ionian"><tspan
              x="414.76398"
              y="359.81339"
-             id="tspan7"><tspan
+             id="tspan3"><tspan
                style="line-height:1"
-               id="tspan6">Ionian
+               id="tspan2">Ionian
 </tspan></tspan><tspan
              x="414.76398"
              y="371.6274"
-             id="tspan9"><tspan
+             id="tspan5"><tspan
                style="font-size:10.6667px;line-height:1;fill:#666666"
-               id="tspan8">(natural major)</tspan></tspan></text>
+               id="tspan4">(natural major)</tspan></tspan></text>
         <text
            xml:space="preserve"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:extra-condensed;font-size:16px;line-height:1;font-family:'NotoSans Nerd Font';-inkscape-font-specification:'NotoSans Nerd Font Extra-Condensed';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:76;display:inline"
@@ -1741,7 +1741,7 @@
            transform="translate(127.54027,39.56179)"><tspan
              x="414.76398"
              y="359.81339"
-             id="tspan10">Mixolydian</tspan></text>
+             id="tspan6">Mixolydian</tspan></text>
         <text
            xml:space="preserve"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:extra-condensed;font-size:16px;line-height:1;font-family:'NotoSans Nerd Font';-inkscape-font-specification:'NotoSans Nerd Font Extra-Condensed';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:76;display:inline"
@@ -1751,7 +1751,7 @@
            transform="translate(35.180266,-3.2512134)"><tspan
              x="414.76398"
              y="359.81339"
-             id="tspan58">Dorian</tspan></text>
+             id="tspan7">Dorian</tspan></text>
         <text
            xml:space="preserve"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:extra-condensed;font-size:16px;line-height:0;font-family:'NotoSans Nerd Font';-inkscape-font-specification:'NotoSans Nerd Font Extra-Condensed';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:76;display:inline"
@@ -1761,15 +1761,15 @@
            transform="translate(-57.109733,34.732106)"><tspan
              x="414.76398"
              y="359.81339"
-             id="tspan93"><tspan
+             id="tspan9"><tspan
                style="line-height:1"
-               id="tspan92">Aeolian
+               id="tspan8">Aeolian
 </tspan></tspan><tspan
              x="414.76398"
              y="371.6274"
-             id="tspan95"><tspan
+             id="tspan11"><tspan
                style="font-size:10.6667px;line-height:1;fill:#666666"
-               id="tspan94">(natural minor)</tspan></tspan></text>
+               id="tspan10">(natural minor)</tspan></tspan></text>
         <text
            xml:space="preserve"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:extra-condensed;font-size:16px;line-height:1;font-family:'NotoSans Nerd Font';-inkscape-font-specification:'NotoSans Nerd Font Extra-Condensed';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:76;display:inline"
@@ -1779,7 +1779,7 @@
            transform="translate(-79.999734,139.51179)"><tspan
              x="414.76398"
              y="359.81339"
-             id="tspan96">Phrygian</tspan></text>
+             id="tspan12">Phrygian</tspan></text>
         <text
            xml:space="preserve"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:extra-condensed;font-size:16px;line-height:1;font-family:'NotoSans Nerd Font';-inkscape-font-specification:'NotoSans Nerd Font Extra-Condensed';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:76;display:inline"
@@ -1789,7 +1789,7 @@
            transform="translate(-16.079734,221.33879)"><tspan
              x="414.76398"
              y="359.81339"
-             id="tspan97">Locrian</tspan></text>
+             id="tspan13">Locrian</tspan></text>
       </g>
       <g
          id="melodic"
@@ -1804,22 +1804,22 @@
            inkscape:label="Lydian dominant"><tspan
              x="414.76398"
              y="359.81339"
-             id="tspan99"><tspan
+             id="tspan15"><tspan
    style="line-height:1"
-   id="tspan98">Lydian</tspan><tspan
+   id="tspan14">Lydian</tspan><tspan
    y="359.81339"
-   id="tspan100"> </tspan></tspan><tspan
+   id="tspan16"> </tspan></tspan><tspan
              x="414.76398"
              y="375.81337"
-             id="tspan102"><tspan
+             id="tspan18"><tspan
                style="line-height:1"
-               id="tspan101">dominant
+               id="tspan17">dominant
 </tspan></tspan><tspan
              x="414.76398"
              y="387.6274"
-             id="tspan104"><tspan
+             id="tspan20"><tspan
                style="font-size:10.6667px;line-height:1;fill:#666666"
-               id="tspan103">(acoustic)</tspan></tspan></text>
+               id="tspan19">(acoustic)</tspan></tspan></text>
         <text
            xml:space="preserve"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:extra-condensed;font-size:16px;line-height:1;font-family:'NotoSans Nerd Font';-inkscape-font-specification:'NotoSans Nerd Font Extra-Condensed';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:76;display:inline"
@@ -1830,12 +1830,12 @@
            inkscape:label="Melodic minor"><tspan
              x="414.76398"
              y="359.81339"
-             id="tspan105">Melodic<tspan
+             id="tspan21">Melodic<tspan
    y="359.81339"
-   id="tspan106"> </tspan></tspan><tspan
+   id="tspan22"> </tspan></tspan><tspan
              x="414.76398"
              y="375.81337"
-             id="tspan107">minor</tspan></text>
+             id="tspan23">minor</tspan></text>
         <text
            xml:space="preserve"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:extra-condensed;font-size:16px;line-height:0;font-family:'NotoSans Nerd Font';-inkscape-font-specification:'NotoSans Nerd Font Extra-Condensed';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:76;display:inline"
@@ -1846,22 +1846,22 @@
            inkscape:label="Aeolian dominant"><tspan
              x="414.76398"
              y="359.81339"
-             id="tspan109"><tspan
+             id="tspan25"><tspan
    style="line-height:1"
-   id="tspan108">Aeolian</tspan><tspan
+   id="tspan24">Aeolian</tspan><tspan
    y="359.81339"
-   id="tspan110"> </tspan></tspan><tspan
+   id="tspan26"> </tspan></tspan><tspan
              x="414.76398"
              y="375.81337"
-             id="tspan112"><tspan
+             id="tspan28"><tspan
                style="line-height:1"
-               id="tspan111">dominant
+               id="tspan27">dominant
 </tspan></tspan><tspan
              x="414.76398"
              y="387.6274"
-             id="tspan114"><tspan
+             id="tspan30"><tspan
                style="font-size:10.6667px;line-height:1;fill:#666666"
-               id="tspan113">(melodic major)</tspan></tspan></text>
+               id="tspan29">(melodic major)</tspan></tspan></text>
         <text
            xml:space="preserve"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:extra-condensed;font-size:16px;line-height:0;font-family:'NotoSans Nerd Font';-inkscape-font-specification:'NotoSans Nerd Font Extra-Condensed';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:76;display:inline"
@@ -1872,23 +1872,23 @@
            inkscape:label="Dorian ♭2"><tspan
              x="414.76398"
              y="359.81339"
-             id="tspan118"><tspan
+             id="tspan34"><tspan
                style="line-height:1"
-               id="tspan115">Dorian </tspan><tspan
+               id="tspan31">Dorian </tspan><tspan
                style="line-height:1"
-               id="tspan116">♭</tspan><tspan
+               id="tspan32">♭</tspan><tspan
                style="line-height:1"
-               id="tspan117">2
+               id="tspan33">2
 </tspan></tspan><tspan
              x="414.76398"
              y="372.02916"
-             id="tspan122"><tspan
+             id="tspan38"><tspan
                style="font-size:10.6667px;line-height:1;fill:#666666"
-               id="tspan119">(Phrygian </tspan><tspan
+               id="tspan35">(Phrygian </tspan><tspan
                style="font-size:10.6667px;line-height:1;fill:#666666"
-               id="tspan120">♮</tspan><tspan
+               id="tspan36">♮</tspan><tspan
                style="font-size:10.6667px;line-height:1;fill:#666666"
-               id="tspan121">6)</tspan></tspan></text>
+               id="tspan37">6)</tspan></tspan></text>
         <text
            xml:space="preserve"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:extra-condensed;font-size:16px;line-height:1;font-family:'NotoSans Nerd Font';-inkscape-font-specification:'NotoSans Nerd Font Extra-Condensed';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:76;display:inline"
@@ -1899,10 +1899,10 @@
            inkscape:label="Half-diminished"><tspan
              x="414.76398"
              y="359.81339"
-             id="tspan123">Half-</tspan><tspan
+             id="tspan39">Half-</tspan><tspan
              x="414.76398"
              y="375.81337"
-             id="tspan124">diminished</tspan></text>
+             id="tspan40">diminished</tspan></text>
       </g>
       <g
          id="g252"
@@ -1920,12 +1920,12 @@
              inkscape:label="Ukrainian Dorian"><tspan
                x="414.76398"
                y="359.81339"
-               id="tspan125">Ukrainian<tspan
+               id="tspan41">Ukrainian<tspan
    y="359.81339"
-   id="tspan126"> </tspan></tspan><tspan
+   id="tspan42"> </tspan></tspan><tspan
                x="414.76398"
                y="375.81337"
-               id="tspan127">Dorian</tspan></text>
+               id="tspan43">Dorian</tspan></text>
           <text
              xml:space="preserve"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:extra-condensed;font-size:16px;line-height:1;font-family:'NotoSans Nerd Font';-inkscape-font-specification:'NotoSans Nerd Font Extra-Condensed';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:76;display:inline"
@@ -1936,12 +1936,12 @@
              inkscape:label="Harmonic minor"><tspan
                x="414.76398"
                y="359.81339"
-               id="tspan128">Harmonic<tspan
+               id="tspan44">Harmonic<tspan
    y="359.81339"
-   id="tspan129"> </tspan></tspan><tspan
+   id="tspan45"> </tspan></tspan><tspan
                x="414.76398"
                y="375.81337"
-               id="tspan130">minor</tspan></text>
+               id="tspan46">minor</tspan></text>
           <text
              xml:space="preserve"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:extra-condensed;font-size:16px;line-height:1;font-family:'NotoSans Nerd Font';-inkscape-font-specification:'NotoSans Nerd Font Extra-Condensed';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:76;display:inline"
@@ -1952,12 +1952,12 @@
              inkscape:label="Phrygian dominant"><tspan
                x="414.76398"
                y="359.81339"
-               id="tspan131">Phrygian<tspan
+               id="tspan47">Phrygian<tspan
    y="359.81339"
-   id="tspan132"> </tspan></tspan><tspan
+   id="tspan48"> </tspan></tspan><tspan
                x="414.76398"
                y="375.81337"
-               id="tspan133">dominant</tspan></text>
+               id="tspan49">dominant</tspan></text>
           <text
              xml:space="preserve"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:extra-condensed;font-size:16px;line-height:1;font-family:'NotoSans Nerd Font';-inkscape-font-specification:'NotoSans Nerd Font Extra-Condensed';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:76;display:inline"
@@ -1968,7 +1968,7 @@
              inkscape:label="Locrian ♮6"><tspan
                x="414.76398"
                y="359.81339"
-               id="tspan134">Locrian ♮6</tspan></text>
+               id="tspan50">Locrian ♮6</tspan></text>
         </g>
         <g
            id="g57"
@@ -1983,25 +1983,25 @@
              inkscape:label="Lydian minor"><tspan
                x="414.76398"
                y="359.81339"
-               id="tspan136"><tspan
+               id="tspan52"><tspan
                  style="line-height:1"
-                 id="tspan135">Lydian
+                 id="tspan51">Lydian
 </tspan></tspan><tspan
                x="414.76398"
                y="375.81337"
-               id="tspan138">minor<tspan
+               id="tspan54">minor<tspan
    style="line-height:1"
-   id="tspan137">
+   id="tspan53">
 </tspan></tspan><tspan
                x="414.76398"
                y="387.6274"
-               id="tspan142"><tspan
+               id="tspan58"><tspan
                  style="font-size:10.6667px;line-height:1;fill:#666666"
-                 id="tspan139">(Lydian </tspan><tspan
+                 id="tspan55">(Lydian </tspan><tspan
                  style="font-size:10.6667px;line-height:1;fill:#666666"
-                 id="tspan140">♭</tspan><tspan
+                 id="tspan56">♭</tspan><tspan
                  style="font-size:10.6667px;line-height:1;fill:#666666"
-                 id="tspan141">3)</tspan></tspan></text>
+                 id="tspan57">3)</tspan></tspan></text>
           <text
              xml:space="preserve"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:extra-condensed;font-size:16px;line-height:1;font-family:'NotoSans Nerd Font';-inkscape-font-specification:'NotoSans Nerd Font Extra-Condensed';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:76;display:inline"
@@ -2012,12 +2012,12 @@
              inkscape:label="Harmonic major"><tspan
                x="414.76398"
                y="359.81339"
-               id="tspan143">Harmonic<tspan
+               id="tspan59">Harmonic<tspan
    y="359.81339"
-   id="tspan144"> </tspan></tspan><tspan
+   id="tspan60"> </tspan></tspan><tspan
                x="414.76398"
                y="375.81337"
-               id="tspan145">major</tspan></text>
+               id="tspan61">major</tspan></text>
           <text
              xml:space="preserve"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:extra-condensed;font-size:16px;line-height:1;font-family:'NotoSans Nerd Font';-inkscape-font-specification:'NotoSans Nerd Font Extra-Condensed';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:76;display:inline"
@@ -2028,12 +2028,12 @@
              inkscape:label="Mixolydian ♭2"><tspan
                x="414.76398"
                y="359.81339"
-               id="tspan146">Mixolydian<tspan
+               id="tspan62">Mixolydian<tspan
    y="359.81339"
-   id="tspan147"> </tspan></tspan><tspan
+   id="tspan63"> </tspan></tspan><tspan
                x="414.76398"
                y="376.21514"
-               id="tspan148">♭2</tspan></text>
+               id="tspan64">♭2</tspan></text>
           <text
              xml:space="preserve"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:extra-condensed;font-size:16px;line-height:0;font-family:'NotoSans Nerd Font';-inkscape-font-specification:'NotoSans Nerd Font Extra-Condensed';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:76;display:inline"
@@ -2044,26 +2044,26 @@
              inkscape:label="Dorian diminished"><tspan
                x="414.76398"
                y="359.81339"
-               id="tspan150"><tspan
+               id="tspan66"><tspan
    style="line-height:1"
-   id="tspan149">Dorian</tspan><tspan
+   id="tspan65">Dorian</tspan><tspan
    y="359.81339"
-   id="tspan151"> </tspan></tspan><tspan
+   id="tspan67"> </tspan></tspan><tspan
                x="414.76398"
                y="375.81337"
-               id="tspan153"><tspan
+               id="tspan69"><tspan
                  style="line-height:1"
-                 id="tspan152">diminished
+                 id="tspan68">diminished
 </tspan></tspan><tspan
                x="414.76398"
                y="387.6274"
-               id="tspan157"><tspan
+               id="tspan73"><tspan
                  style="font-size:10.6667px;line-height:1;fill:#666666"
-                 id="tspan154">(Dorian </tspan><tspan
+                 id="tspan70">(Dorian </tspan><tspan
                  style="font-size:10.6667px;line-height:1;fill:#666666"
-                 id="tspan155">♭</tspan><tspan
+                 id="tspan71">♭</tspan><tspan
                  style="font-size:10.6667px;line-height:1;fill:#666666"
-                 id="tspan156">5)</tspan></tspan></text>
+                 id="tspan72">5)</tspan></tspan></text>
         </g>
         <g
            id="g263"
@@ -2078,28 +2078,28 @@
              inkscape:label="Hungarian minor"><tspan
                x="414.76398"
                y="359.81339"
-               id="tspan159"><tspan
+               id="tspan75"><tspan
                  style="line-height:1"
-                 id="tspan158">Hungarian
+                 id="tspan74">Hungarian
 </tspan></tspan><tspan
                x="414.76398"
                y="375.81337"
-               id="tspan161">minor<tspan
+               id="tspan77">minor<tspan
    style="line-height:1"
-   id="tspan160">
+   id="tspan76">
 </tspan></tspan><tspan
                x="414.76398"
                y="387.6274"
-               id="tspan163"><tspan
+               id="tspan79"><tspan
    style="font-size:10.6667px;line-height:1;fill:#666666"
-   id="tspan162">(double harmonic</tspan><tspan
+   id="tspan78">(double harmonic</tspan><tspan
    y="387.6274"
-   id="tspan164"> </tspan></tspan><tspan
+   id="tspan80"> </tspan></tspan><tspan
                x="414.76398"
                y="398.29409"
-               id="tspan166"><tspan
+               id="tspan82"><tspan
                  style="font-size:10.6667px;line-height:1;fill:#666666"
-                 id="tspan165">minor)</tspan></tspan></text>
+                 id="tspan81">minor)</tspan></tspan></text>
           <text
              xml:space="preserve"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:extra-condensed;font-size:16px;line-height:1;font-family:'NotoSans Nerd Font';-inkscape-font-specification:'NotoSans Nerd Font Extra-Condensed';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:76;display:inline"
@@ -2110,17 +2110,17 @@
              inkscape:label="Double harmonic major"><tspan
                x="414.76398"
                y="359.81339"
-               id="tspan167">Double<tspan
+               id="tspan83">Double<tspan
    y="359.81339"
-   id="tspan168"> </tspan></tspan><tspan
+   id="tspan84"> </tspan></tspan><tspan
                x="414.76398"
                y="375.81337"
-               id="tspan169">harmonic<tspan
+               id="tspan85">harmonic<tspan
    y="375.81337"
-   id="tspan170"> </tspan></tspan><tspan
+   id="tspan86"> </tspan></tspan><tspan
                x="414.76398"
                y="391.81337"
-               id="tspan171">major</tspan></text>
+               id="tspan87">major</tspan></text>
           <text
              xml:space="preserve"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:extra-condensed;font-size:16px;line-height:0;font-family:'NotoSans Nerd Font';-inkscape-font-specification:'NotoSans Nerd Font Extra-Condensed';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:76;display:inline"
@@ -2131,15 +2131,15 @@
              inkscape:label="Oriental"><tspan
                x="414.76398"
                y="359.81339"
-               id="tspan173"><tspan
+               id="tspan89"><tspan
                  style="line-height:1"
-                 id="tspan172">Oriental
+                 id="tspan88">Oriental
 </tspan></tspan><tspan
                x="414.76398"
                y="371.6274"
-               id="tspan175"><tspan
+               id="tspan91"><tspan
                  style="font-size:10.6667px;line-height:1;fill:#666666"
-                 id="tspan174">(Asian)</tspan></tspan></text>
+                 id="tspan90">(Asian)</tspan></tspan></text>
         </g>
       </g>
     </g>
@@ -2156,7 +2156,7 @@
          inkscape:label="♭"><tspan
            x="414.76398"
            y="359.81339"
-           id="tspan176">♭</tspan></text>
+           id="tspan92">♭</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:extra-condensed;font-size:16px;line-height:1;font-family:'NotoSans Nerd Font';-inkscape-font-specification:'NotoSans Nerd Font Extra-Condensed';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:76;display:inline"
@@ -2167,7 +2167,7 @@
          inkscape:label="♯"><tspan
            x="414.76398"
            y="359.81339"
-           id="tspan177">♯</tspan></text>
+           id="tspan93">♯</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:extra-condensed;font-size:16px;line-height:1;font-family:'NotoSans Nerd Font';-inkscape-font-specification:'NotoSans Nerd Font Extra-Condensed';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:76;display:inline"
@@ -2178,7 +2178,7 @@
          inkscape:label="♭"><tspan
            x="414.76398"
            y="359.81339"
-           id="tspan178">♭</tspan></text>
+           id="tspan94">♭</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:extra-condensed;font-size:16px;line-height:1;font-family:'NotoSans Nerd Font';-inkscape-font-specification:'NotoSans Nerd Font Extra-Condensed';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:76;display:inline"
@@ -2189,7 +2189,7 @@
          inkscape:label="♯"><tspan
            x="414.76398"
            y="359.81339"
-           id="tspan179">♯</tspan></text>
+           id="tspan95">♯</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:extra-condensed;font-size:16px;line-height:1;font-family:'NotoSans Nerd Font';-inkscape-font-specification:'NotoSans Nerd Font Extra-Condensed';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:76;display:inline"
@@ -2200,7 +2200,7 @@
          inkscape:label="♭"><tspan
            x="414.76398"
            y="359.81339"
-           id="tspan180">♭</tspan></text>
+           id="tspan96">♭</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:extra-condensed;font-size:16px;line-height:1;font-family:'NotoSans Nerd Font';-inkscape-font-specification:'NotoSans Nerd Font Extra-Condensed';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:76;display:inline"
@@ -2211,7 +2211,7 @@
          inkscape:label="♯"><tspan
            x="414.76398"
            y="359.81339"
-           id="tspan181">♯</tspan></text>
+           id="tspan97">♯</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:extra-condensed;font-size:16px;line-height:1;font-family:'NotoSans Nerd Font';-inkscape-font-specification:'NotoSans Nerd Font Extra-Condensed';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:76;display:inline"
@@ -2222,7 +2222,7 @@
          inkscape:label="♭"><tspan
            x="414.76398"
            y="359.81339"
-           id="tspan182">♭</tspan></text>
+           id="tspan98">♭</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:extra-condensed;font-size:16px;line-height:1;font-family:'NotoSans Nerd Font';-inkscape-font-specification:'NotoSans Nerd Font Extra-Condensed';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:76;display:inline"
@@ -2233,7 +2233,7 @@
          inkscape:label="♯"><tspan
            x="414.76398"
            y="359.81339"
-           id="tspan183">♯</tspan></text>
+           id="tspan99">♯</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:extra-condensed;font-size:16px;line-height:1;font-family:'NotoSans Nerd Font';-inkscape-font-specification:'NotoSans Nerd Font Extra-Condensed';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:76;display:inline"
@@ -2244,7 +2244,7 @@
          inkscape:label="♭"><tspan
            x="414.76398"
            y="359.81339"
-           id="tspan184">♭</tspan></text>
+           id="tspan100">♭</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:extra-condensed;font-size:16px;line-height:1;font-family:'NotoSans Nerd Font';-inkscape-font-specification:'NotoSans Nerd Font Extra-Condensed';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:76;display:inline"
@@ -2255,7 +2255,7 @@
          inkscape:label="♯"><tspan
            x="414.76398"
            y="359.81339"
-           id="tspan185">♯</tspan></text>
+           id="tspan101">♯</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:extra-condensed;font-size:16px;line-height:1;font-family:'NotoSans Nerd Font';-inkscape-font-specification:'NotoSans Nerd Font Extra-Condensed';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:76;display:inline"
@@ -2266,7 +2266,7 @@
          inkscape:label="♭"><tspan
            x="414.76398"
            y="359.81339"
-           id="tspan186">♭</tspan></text>
+           id="tspan102">♭</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:extra-condensed;font-size:16px;line-height:1;font-family:'NotoSans Nerd Font';-inkscape-font-specification:'NotoSans Nerd Font Extra-Condensed';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:76;display:inline"
@@ -2277,7 +2277,7 @@
          inkscape:label="♯"><tspan
            x="414.76398"
            y="359.81339"
-           id="tspan187">♯</tspan></text>
+           id="tspan103">♯</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:extra-condensed;font-size:16px;line-height:1;font-family:'NotoSans Nerd Font';-inkscape-font-specification:'NotoSans Nerd Font Extra-Condensed';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:76;display:inline"
@@ -2288,7 +2288,7 @@
          inkscape:label="4"><tspan
            x="414.76398"
            y="359.81339"
-           id="tspan188">4</tspan></text>
+           id="tspan104">4</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:extra-condensed;font-size:16px;line-height:1;font-family:'NotoSans Nerd Font';-inkscape-font-specification:'NotoSans Nerd Font Extra-Condensed';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:76;display:inline"
@@ -2299,7 +2299,7 @@
          inkscape:label="7"><tspan
            x="414.76398"
            y="359.81339"
-           id="tspan189">7</tspan></text>
+           id="tspan105">7</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:extra-condensed;font-size:16px;line-height:1;font-family:'NotoSans Nerd Font';-inkscape-font-specification:'NotoSans Nerd Font Extra-Condensed';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:76;display:inline"
@@ -2310,7 +2310,7 @@
          inkscape:label="3"><tspan
            x="414.76398"
            y="359.81339"
-           id="tspan190">3</tspan></text>
+           id="tspan106">3</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:extra-condensed;font-size:16px;line-height:1;font-family:'NotoSans Nerd Font';-inkscape-font-specification:'NotoSans Nerd Font Extra-Condensed';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:76;display:inline"
@@ -2321,7 +2321,7 @@
          inkscape:label="6"><tspan
            x="414.76398"
            y="359.81339"
-           id="tspan191">6</tspan></text>
+           id="tspan107">6</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:extra-condensed;font-size:16px;line-height:1;font-family:'NotoSans Nerd Font';-inkscape-font-specification:'NotoSans Nerd Font Extra-Condensed';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:76;display:inline"
@@ -2332,7 +2332,7 @@
          inkscape:label="2"><tspan
            x="414.76398"
            y="359.81339"
-           id="tspan192">2</tspan></text>
+           id="tspan108">2</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:extra-condensed;font-size:16px;line-height:1;font-family:'NotoSans Nerd Font';-inkscape-font-specification:'NotoSans Nerd Font Extra-Condensed';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:76;display:inline"
@@ -2343,7 +2343,7 @@
          inkscape:label="5"><tspan
            x="414.76398"
            y="359.81339"
-           id="tspan193">5</tspan></text>
+           id="tspan109">5</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:extra-condensed;font-size:16px;line-height:1;font-family:'NotoSans Nerd Font';-inkscape-font-specification:'NotoSans Nerd Font Extra-Condensed';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:76;display:inline"
@@ -2354,7 +2354,7 @@
          inkscape:label="♭"><tspan
            x="414.76398"
            y="359.81339"
-           id="tspan194">♭</tspan></text>
+           id="tspan110">♭</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:extra-condensed;font-size:16px;line-height:1;font-family:'NotoSans Nerd Font';-inkscape-font-specification:'NotoSans Nerd Font Extra-Condensed';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:76;display:inline"
@@ -2365,7 +2365,7 @@
          inkscape:label="♯"><tspan
            x="414.76398"
            y="359.81339"
-           id="tspan195">♯</tspan></text>
+           id="tspan111">♯</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:extra-condensed;font-size:16px;line-height:1;font-family:'NotoSans Nerd Font';-inkscape-font-specification:'NotoSans Nerd Font Extra-Condensed';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:76;display:inline"
@@ -2376,7 +2376,7 @@
          inkscape:label="♭"><tspan
            x="414.76398"
            y="359.81339"
-           id="tspan196">♭</tspan></text>
+           id="tspan112">♭</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:extra-condensed;font-size:16px;line-height:1;font-family:'NotoSans Nerd Font';-inkscape-font-specification:'NotoSans Nerd Font Extra-Condensed';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:76;display:inline"
@@ -2387,7 +2387,7 @@
          inkscape:label="♯"><tspan
            x="414.76398"
            y="359.81339"
-           id="tspan197">♯</tspan></text>
+           id="tspan113">♯</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:extra-condensed;font-size:16px;line-height:1;font-family:'NotoSans Nerd Font';-inkscape-font-specification:'NotoSans Nerd Font Extra-Condensed';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:76;display:inline"
@@ -2398,7 +2398,7 @@
          inkscape:label="♭"><tspan
            x="414.76398"
            y="359.81339"
-           id="tspan198">♭</tspan></text>
+           id="tspan114">♭</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:extra-condensed;font-size:16px;line-height:1;font-family:'NotoSans Nerd Font';-inkscape-font-specification:'NotoSans Nerd Font Extra-Condensed';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:76;display:inline"
@@ -2409,7 +2409,7 @@
          inkscape:label="♯"><tspan
            x="414.76398"
            y="359.81339"
-           id="tspan199">♯</tspan></text>
+           id="tspan115">♯</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:extra-condensed;font-size:16px;line-height:1;font-family:'NotoSans Nerd Font';-inkscape-font-specification:'NotoSans Nerd Font Extra-Condensed';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:76;display:inline"
@@ -2420,7 +2420,7 @@
          inkscape:label="♭"><tspan
            x="414.76398"
            y="359.81339"
-           id="tspan200">♭</tspan></text>
+           id="tspan116">♭</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:extra-condensed;font-size:16px;line-height:1;font-family:'NotoSans Nerd Font';-inkscape-font-specification:'NotoSans Nerd Font Extra-Condensed';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:76;display:inline"
@@ -2431,7 +2431,7 @@
          inkscape:label="♯"><tspan
            x="414.76398"
            y="359.81339"
-           id="tspan201">♯</tspan></text>
+           id="tspan117">♯</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:extra-condensed;font-size:16px;line-height:1;font-family:'NotoSans Nerd Font';-inkscape-font-specification:'NotoSans Nerd Font Extra-Condensed';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:76;display:inline"
@@ -2442,7 +2442,7 @@
          inkscape:label="♭"><tspan
            x="414.76398"
            y="359.81339"
-           id="tspan202">♭</tspan></text>
+           id="tspan118">♭</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:extra-condensed;font-size:16px;line-height:1;font-family:'NotoSans Nerd Font';-inkscape-font-specification:'NotoSans Nerd Font Extra-Condensed';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:76;display:inline"
@@ -2453,7 +2453,7 @@
          inkscape:label="♯"><tspan
            x="414.76398"
            y="359.81339"
-           id="tspan203">♯</tspan></text>
+           id="tspan119">♯</tspan></text>
       <use
          x="0"
          y="0"
@@ -2504,7 +2504,7 @@
          inkscape:label="♭"><tspan
            x="414.76398"
            y="359.81339"
-           id="tspan204">♭</tspan></text>
+           id="tspan120">♭</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:extra-condensed;font-size:16px;line-height:1;font-family:'NotoSans Nerd Font';-inkscape-font-specification:'NotoSans Nerd Font Extra-Condensed';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:76;display:inline"
@@ -2515,7 +2515,7 @@
          inkscape:label="♯"><tspan
            x="414.76398"
            y="359.81339"
-           id="tspan205">♯</tspan></text>
+           id="tspan121">♯</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:extra-condensed;font-size:16px;line-height:1;font-family:'NotoSans Nerd Font';-inkscape-font-specification:'NotoSans Nerd Font Extra-Condensed';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:76;display:inline"
@@ -2526,7 +2526,7 @@
          inkscape:label="♭"><tspan
            x="414.76398"
            y="359.81339"
-           id="tspan206">♭</tspan></text>
+           id="tspan122">♭</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:extra-condensed;font-size:16px;line-height:1;font-family:'NotoSans Nerd Font';-inkscape-font-specification:'NotoSans Nerd Font Extra-Condensed';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:76;display:inline"
@@ -2537,7 +2537,7 @@
          inkscape:label="♯"><tspan
            x="414.76398"
            y="359.81339"
-           id="tspan207">♯</tspan></text>
+           id="tspan123">♯</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:extra-condensed;font-size:16px;line-height:1;font-family:'NotoSans Nerd Font';-inkscape-font-specification:'NotoSans Nerd Font Extra-Condensed';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:76;display:inline"
@@ -2548,7 +2548,7 @@
          inkscape:label="♭"><tspan
            x="414.76398"
            y="359.81339"
-           id="tspan208">♭</tspan></text>
+           id="tspan124">♭</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:extra-condensed;font-size:16px;line-height:1;font-family:'NotoSans Nerd Font';-inkscape-font-specification:'NotoSans Nerd Font Extra-Condensed';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:76;display:inline"
@@ -2559,7 +2559,7 @@
          inkscape:label="♯"><tspan
            x="414.76398"
            y="359.81339"
-           id="tspan209">♯</tspan></text>
+           id="tspan125">♯</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:extra-condensed;font-size:16px;line-height:1;font-family:'NotoSans Nerd Font';-inkscape-font-specification:'NotoSans Nerd Font Extra-Condensed';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:76;display:inline"
@@ -2570,7 +2570,7 @@
          inkscape:label="♭"><tspan
            x="414.76398"
            y="359.81339"
-           id="tspan210">♭</tspan></text>
+           id="tspan126">♭</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:extra-condensed;font-size:16px;line-height:1;font-family:'NotoSans Nerd Font';-inkscape-font-specification:'NotoSans Nerd Font Extra-Condensed';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:76;display:inline"
@@ -2581,7 +2581,7 @@
          inkscape:label="♯"><tspan
            x="414.76398"
            y="359.81339"
-           id="tspan211">♯</tspan></text>
+           id="tspan127">♯</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:extra-condensed;font-size:16px;line-height:1;font-family:'NotoSans Nerd Font';-inkscape-font-specification:'NotoSans Nerd Font Extra-Condensed';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:76;display:inline"
@@ -2592,7 +2592,7 @@
          inkscape:label="♭"><tspan
            x="414.76398"
            y="359.81339"
-           id="tspan212">♭</tspan></text>
+           id="tspan128">♭</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:extra-condensed;font-size:16px;line-height:1;font-family:'NotoSans Nerd Font';-inkscape-font-specification:'NotoSans Nerd Font Extra-Condensed';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:76;display:inline"
@@ -2603,7 +2603,7 @@
          inkscape:label="♯"><tspan
            x="414.76398"
            y="359.81339"
-           id="tspan213">♯</tspan></text>
+           id="tspan129">♯</tspan></text>
       <use
          x="0"
          y="0"
@@ -2654,7 +2654,7 @@
          inkscape:label="♭"><tspan
            x="414.76398"
            y="359.81339"
-           id="tspan227">♭</tspan></text>
+           id="tspan130">♭</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:extra-condensed;font-size:16px;line-height:1;font-family:'NotoSans Nerd Font';-inkscape-font-specification:'NotoSans Nerd Font Extra-Condensed';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:76;display:inline"
@@ -2665,7 +2665,7 @@
          inkscape:label="♯"><tspan
            x="414.76398"
            y="359.81339"
-           id="tspan228">♯</tspan></text>
+           id="tspan131">♯</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:extra-condensed;font-size:16px;line-height:1;font-family:'NotoSans Nerd Font';-inkscape-font-specification:'NotoSans Nerd Font Extra-Condensed';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:76;display:inline"
@@ -2676,7 +2676,7 @@
          inkscape:label="♭"><tspan
            x="414.76398"
            y="359.81339"
-           id="tspan229">♭</tspan></text>
+           id="tspan132">♭</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:extra-condensed;font-size:16px;line-height:1;font-family:'NotoSans Nerd Font';-inkscape-font-specification:'NotoSans Nerd Font Extra-Condensed';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:76;display:inline"
@@ -2687,7 +2687,7 @@
          inkscape:label="♯"><tspan
            x="414.76398"
            y="359.81339"
-           id="tspan230">♯</tspan></text>
+           id="tspan133">♯</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:extra-condensed;font-size:16px;line-height:1;font-family:'NotoSans Nerd Font';-inkscape-font-specification:'NotoSans Nerd Font Extra-Condensed';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:76;display:inline"
@@ -2698,7 +2698,7 @@
          inkscape:label="♭"><tspan
            x="414.76398"
            y="359.81339"
-           id="tspan231">♭</tspan></text>
+           id="tspan134">♭</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:extra-condensed;font-size:16px;line-height:1;font-family:'NotoSans Nerd Font';-inkscape-font-specification:'NotoSans Nerd Font Extra-Condensed';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:76;display:inline"
@@ -2709,7 +2709,7 @@
          inkscape:label="♯"><tspan
            x="414.76398"
            y="359.81339"
-           id="tspan232">♯</tspan></text>
+           id="tspan135">♯</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:extra-condensed;font-size:16px;line-height:1;font-family:'NotoSans Nerd Font';-inkscape-font-specification:'NotoSans Nerd Font Extra-Condensed';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:76;display:inline"
@@ -2720,7 +2720,7 @@
          inkscape:label="♭"><tspan
            x="414.76398"
            y="359.81339"
-           id="tspan233">♭</tspan></text>
+           id="tspan136">♭</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:extra-condensed;font-size:16px;line-height:1;font-family:'NotoSans Nerd Font';-inkscape-font-specification:'NotoSans Nerd Font Extra-Condensed';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:76;display:inline"
@@ -2731,7 +2731,7 @@
          inkscape:label="♯"><tspan
            x="414.76398"
            y="359.81339"
-           id="tspan234">♯</tspan></text>
+           id="tspan137">♯</tspan></text>
       <use
          x="0"
          y="0"
@@ -2774,7 +2774,7 @@
          inkscape:label="♭"><tspan
            x="414.76398"
            y="359.81339"
-           id="tspan235">♭</tspan></text>
+           id="tspan138">♭</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:extra-condensed;font-size:16px;line-height:1;font-family:'NotoSans Nerd Font';-inkscape-font-specification:'NotoSans Nerd Font Extra-Condensed';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:76;display:inline"
@@ -2785,7 +2785,7 @@
          inkscape:label="♯"><tspan
            x="414.76398"
            y="359.81339"
-           id="tspan236">♯</tspan></text>
+           id="tspan139">♯</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:extra-condensed;font-size:16px;line-height:1;font-family:'NotoSans Nerd Font';-inkscape-font-specification:'NotoSans Nerd Font Extra-Condensed';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:76;display:inline"
@@ -2796,7 +2796,7 @@
          inkscape:label="♭"><tspan
            x="414.76398"
            y="359.81339"
-           id="tspan237">♭</tspan></text>
+           id="tspan140">♭</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:extra-condensed;font-size:16px;line-height:1;font-family:'NotoSans Nerd Font';-inkscape-font-specification:'NotoSans Nerd Font Extra-Condensed';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:76;display:inline"
@@ -2807,7 +2807,7 @@
          inkscape:label="♯"><tspan
            x="414.76398"
            y="359.81339"
-           id="tspan238">♯</tspan></text>
+           id="tspan141">♯</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:extra-condensed;font-size:16px;line-height:1;font-family:'NotoSans Nerd Font';-inkscape-font-specification:'NotoSans Nerd Font Extra-Condensed';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:76;display:inline"
@@ -2818,7 +2818,7 @@
          inkscape:label="♭"><tspan
            x="414.76398"
            y="359.81339"
-           id="tspan239">♭</tspan></text>
+           id="tspan142">♭</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:extra-condensed;font-size:16px;line-height:1;font-family:'NotoSans Nerd Font';-inkscape-font-specification:'NotoSans Nerd Font Extra-Condensed';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:76;display:inline"
@@ -2829,7 +2829,7 @@
          inkscape:label="♯"><tspan
            x="414.76398"
            y="359.81339"
-           id="tspan240">♯</tspan></text>
+           id="tspan143">♯</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:extra-condensed;font-size:16px;line-height:1;font-family:'NotoSans Nerd Font';-inkscape-font-specification:'NotoSans Nerd Font Extra-Condensed';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:76;display:inline"
@@ -2840,7 +2840,7 @@
          inkscape:label="♭"><tspan
            x="414.76398"
            y="359.81339"
-           id="tspan241">♭</tspan></text>
+           id="tspan144">♭</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:extra-condensed;font-size:16px;line-height:1;font-family:'NotoSans Nerd Font';-inkscape-font-specification:'NotoSans Nerd Font Extra-Condensed';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:76;display:inline"
@@ -2851,7 +2851,7 @@
          inkscape:label="♯"><tspan
            x="414.76398"
            y="359.81339"
-           id="tspan242">♯</tspan></text>
+           id="tspan145">♯</tspan></text>
       <use
          x="0"
          y="0"
@@ -2894,7 +2894,7 @@
          inkscape:label="♭"><tspan
            x="414.76398"
            y="359.81339"
-           id="tspan243">♭</tspan></text>
+           id="tspan146">♭</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:extra-condensed;font-size:16px;line-height:1;font-family:'NotoSans Nerd Font';-inkscape-font-specification:'NotoSans Nerd Font Extra-Condensed';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:76;display:inline"
@@ -2905,7 +2905,7 @@
          inkscape:label="♯"><tspan
            x="414.76398"
            y="359.81339"
-           id="tspan244">♯</tspan></text>
+           id="tspan147">♯</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:extra-condensed;font-size:16px;line-height:1;font-family:'NotoSans Nerd Font';-inkscape-font-specification:'NotoSans Nerd Font Extra-Condensed';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:76;display:inline"
@@ -2916,7 +2916,7 @@
          inkscape:label="♭"><tspan
            x="414.76398"
            y="359.81339"
-           id="tspan245">♭</tspan></text>
+           id="tspan148">♭</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:extra-condensed;font-size:16px;line-height:1;font-family:'NotoSans Nerd Font';-inkscape-font-specification:'NotoSans Nerd Font Extra-Condensed';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:76;display:inline"
@@ -2927,7 +2927,7 @@
          inkscape:label="♯"><tspan
            x="414.76398"
            y="359.81339"
-           id="tspan246">♯</tspan></text>
+           id="tspan149">♯</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:extra-condensed;font-size:16px;line-height:1;font-family:'NotoSans Nerd Font';-inkscape-font-specification:'NotoSans Nerd Font Extra-Condensed';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:76;display:inline"
@@ -2938,7 +2938,7 @@
          inkscape:label="♭"><tspan
            x="414.76398"
            y="359.81339"
-           id="tspan247">♭</tspan></text>
+           id="tspan150">♭</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:extra-condensed;font-size:16px;line-height:1;font-family:'NotoSans Nerd Font';-inkscape-font-specification:'NotoSans Nerd Font Extra-Condensed';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:76;display:inline"
@@ -2949,7 +2949,7 @@
          inkscape:label="♯"><tspan
            x="414.76398"
            y="359.81339"
-           id="tspan248">♯</tspan></text>
+           id="tspan151">♯</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:extra-condensed;font-size:16px;line-height:1;font-family:'NotoSans Nerd Font';-inkscape-font-specification:'NotoSans Nerd Font Extra-Condensed';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:76;display:inline"
@@ -2960,7 +2960,7 @@
          inkscape:label="♭"><tspan
            x="414.76398"
            y="359.81339"
-           id="tspan249">♭</tspan></text>
+           id="tspan152">♭</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:extra-condensed;font-size:16px;line-height:1;font-family:'NotoSans Nerd Font';-inkscape-font-specification:'NotoSans Nerd Font Extra-Condensed';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:76;display:inline"
@@ -2971,7 +2971,7 @@
          inkscape:label="♯"><tspan
            x="414.76398"
            y="359.81339"
-           id="tspan250">♯</tspan></text>
+           id="tspan153">♯</tspan></text>
       <use
          x="0"
          y="0"
@@ -3014,7 +3014,7 @@
          inkscape:label="♭"><tspan
            x="414.76398"
            y="359.81339"
-           id="tspan251">♭</tspan></text>
+           id="tspan154">♭</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:extra-condensed;font-size:16px;line-height:1;font-family:'NotoSans Nerd Font';-inkscape-font-specification:'NotoSans Nerd Font Extra-Condensed';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:76;display:inline"
@@ -3025,7 +3025,7 @@
          inkscape:label="♯"><tspan
            x="414.76398"
            y="359.81339"
-           id="tspan252">♯</tspan></text>
+           id="tspan155">♯</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:extra-condensed;font-size:16px;line-height:1;font-family:'NotoSans Nerd Font';-inkscape-font-specification:'NotoSans Nerd Font Extra-Condensed';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:76;display:inline"
@@ -3036,7 +3036,7 @@
          inkscape:label="♭"><tspan
            x="414.76398"
            y="359.81339"
-           id="tspan253">♭</tspan></text>
+           id="tspan156">♭</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:extra-condensed;font-size:16px;line-height:1;font-family:'NotoSans Nerd Font';-inkscape-font-specification:'NotoSans Nerd Font Extra-Condensed';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:76;display:inline"
@@ -3047,7 +3047,7 @@
          inkscape:label="♯"><tspan
            x="414.76398"
            y="359.81339"
-           id="tspan254">♯</tspan></text>
+           id="tspan157">♯</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:extra-condensed;font-size:16px;line-height:1;font-family:'NotoSans Nerd Font';-inkscape-font-specification:'NotoSans Nerd Font Extra-Condensed';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:76;display:inline"
@@ -3058,7 +3058,7 @@
          inkscape:label="♭"><tspan
            x="414.76398"
            y="359.81339"
-           id="tspan255">♭</tspan></text>
+           id="tspan158">♭</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:extra-condensed;font-size:16px;line-height:1;font-family:'NotoSans Nerd Font';-inkscape-font-specification:'NotoSans Nerd Font Extra-Condensed';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:76;display:inline"
@@ -3069,7 +3069,7 @@
          inkscape:label="♯"><tspan
            x="414.76398"
            y="359.81339"
-           id="tspan256">♯</tspan></text>
+           id="tspan159">♯</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:extra-condensed;font-size:16px;line-height:1;font-family:'NotoSans Nerd Font';-inkscape-font-specification:'NotoSans Nerd Font Extra-Condensed';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:76;display:inline"
@@ -3080,7 +3080,7 @@
          inkscape:label="♭"><tspan
            x="414.76398"
            y="359.81339"
-           id="tspan257">♭</tspan></text>
+           id="tspan160">♭</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:extra-condensed;font-size:16px;line-height:1;font-family:'NotoSans Nerd Font';-inkscape-font-specification:'NotoSans Nerd Font Extra-Condensed';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:76;display:inline"
@@ -3091,7 +3091,7 @@
          inkscape:label="♯"><tspan
            x="414.76398"
            y="359.81339"
-           id="tspan258">♯</tspan></text>
+           id="tspan161">♯</tspan></text>
       <use
          x="0"
          y="0"
@@ -3134,7 +3134,7 @@
          inkscape:label="♭"><tspan
            x="414.76398"
            y="359.81339"
-           id="tspan259">♭</tspan></text>
+           id="tspan162">♭</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:extra-condensed;font-size:16px;line-height:1;font-family:'NotoSans Nerd Font';-inkscape-font-specification:'NotoSans Nerd Font Extra-Condensed';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:76;display:inline"
@@ -3145,7 +3145,7 @@
          inkscape:label="♯"><tspan
            x="414.76398"
            y="359.81339"
-           id="tspan260">♯</tspan></text>
+           id="tspan163">♯</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:extra-condensed;font-size:16px;line-height:1;font-family:'NotoSans Nerd Font';-inkscape-font-specification:'NotoSans Nerd Font Extra-Condensed';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:76;display:inline"
@@ -3156,7 +3156,7 @@
          inkscape:label="♭"><tspan
            x="414.76398"
            y="359.81339"
-           id="tspan261">♭</tspan></text>
+           id="tspan164">♭</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:extra-condensed;font-size:16px;line-height:1;font-family:'NotoSans Nerd Font';-inkscape-font-specification:'NotoSans Nerd Font Extra-Condensed';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:76;display:inline"
@@ -3167,7 +3167,7 @@
          inkscape:label="♯"><tspan
            x="414.76398"
            y="359.81339"
-           id="tspan262">♯</tspan></text>
+           id="tspan165">♯</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:extra-condensed;font-size:16px;line-height:1;font-family:'NotoSans Nerd Font';-inkscape-font-specification:'NotoSans Nerd Font Extra-Condensed';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:76;display:inline"
@@ -3178,7 +3178,7 @@
          inkscape:label="♭"><tspan
            x="414.76398"
            y="359.81339"
-           id="tspan263">♭</tspan></text>
+           id="tspan166">♭</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:extra-condensed;font-size:16px;line-height:1;font-family:'NotoSans Nerd Font';-inkscape-font-specification:'NotoSans Nerd Font Extra-Condensed';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:76;display:inline"
@@ -3189,7 +3189,7 @@
          inkscape:label="♯"><tspan
            x="414.76398"
            y="359.81339"
-           id="tspan264">♯</tspan></text>
+           id="tspan167">♯</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:extra-condensed;font-size:16px;line-height:1;font-family:'NotoSans Nerd Font';-inkscape-font-specification:'NotoSans Nerd Font Extra-Condensed';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:76;display:inline"
@@ -3200,7 +3200,7 @@
          inkscape:label="♭"><tspan
            x="414.76398"
            y="359.81339"
-           id="tspan265">♭</tspan></text>
+           id="tspan168">♭</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:extra-condensed;font-size:16px;line-height:1;font-family:'NotoSans Nerd Font';-inkscape-font-specification:'NotoSans Nerd Font Extra-Condensed';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:76;display:inline"
@@ -3211,7 +3211,7 @@
          inkscape:label="♯"><tspan
            x="414.76398"
            y="359.81339"
-           id="tspan266">♯</tspan></text>
+           id="tspan169">♯</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:extra-condensed;font-size:16px;line-height:1;font-family:'NotoSans Nerd Font';-inkscape-font-specification:'NotoSans Nerd Font Extra-Condensed';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:76;display:inline"
@@ -3222,7 +3222,7 @@
          inkscape:label="7"><tspan
            x="414.76398"
            y="359.81339"
-           id="tspan267">7</tspan></text>
+           id="tspan170">7</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:extra-condensed;font-size:16px;line-height:1;font-family:'NotoSans Nerd Font';-inkscape-font-specification:'NotoSans Nerd Font Extra-Condensed';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:76;display:inline"
@@ -3233,7 +3233,7 @@
          inkscape:label="3"><tspan
            x="414.76398"
            y="359.81339"
-           id="tspan268">3</tspan></text>
+           id="tspan171">3</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:extra-condensed;font-size:16px;line-height:1;font-family:'NotoSans Nerd Font';-inkscape-font-specification:'NotoSans Nerd Font Extra-Condensed';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:76;display:inline"
@@ -3244,7 +3244,7 @@
          inkscape:label="6"><tspan
            x="414.76398"
            y="359.81339"
-           id="tspan269">6</tspan></text>
+           id="tspan172">6</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:extra-condensed;font-size:16px;line-height:1;font-family:'NotoSans Nerd Font';-inkscape-font-specification:'NotoSans Nerd Font Extra-Condensed';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:76;display:inline"
@@ -3255,7 +3255,7 @@
          inkscape:label="2"><tspan
            x="414.76398"
            y="359.81339"
-           id="tspan270">2</tspan></text>
+           id="tspan173">2</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:extra-condensed;font-size:16px;line-height:1;font-family:'NotoSans Nerd Font';-inkscape-font-specification:'NotoSans Nerd Font Extra-Condensed';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:76;display:inline"
@@ -3266,7 +3266,7 @@
          inkscape:label="♭"><tspan
            x="414.76398"
            y="359.81339"
-           id="tspan271">♭</tspan></text>
+           id="tspan174">♭</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:extra-condensed;font-size:16px;line-height:1;font-family:'NotoSans Nerd Font';-inkscape-font-specification:'NotoSans Nerd Font Extra-Condensed';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:76;display:inline"
@@ -3277,7 +3277,7 @@
          inkscape:label="♯"><tspan
            x="414.76398"
            y="359.81339"
-           id="tspan272">♯</tspan></text>
+           id="tspan175">♯</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:extra-condensed;font-size:16px;line-height:1;font-family:'NotoSans Nerd Font';-inkscape-font-specification:'NotoSans Nerd Font Extra-Condensed';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:76;display:inline"
@@ -3288,7 +3288,7 @@
          inkscape:label="♭"><tspan
            x="414.76398"
            y="359.81339"
-           id="tspan273">♭</tspan></text>
+           id="tspan176">♭</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:extra-condensed;font-size:16px;line-height:1;font-family:'NotoSans Nerd Font';-inkscape-font-specification:'NotoSans Nerd Font Extra-Condensed';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:76;display:inline"
@@ -3299,7 +3299,7 @@
          inkscape:label="♯"><tspan
            x="414.76398"
            y="359.81339"
-           id="tspan274">♯</tspan></text>
+           id="tspan177">♯</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:extra-condensed;font-size:16px;line-height:1;font-family:'NotoSans Nerd Font';-inkscape-font-specification:'NotoSans Nerd Font Extra-Condensed';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:76;display:inline"
@@ -3310,7 +3310,7 @@
          inkscape:label="♭"><tspan
            x="414.76398"
            y="359.81339"
-           id="tspan275">♭</tspan></text>
+           id="tspan178">♭</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:extra-condensed;font-size:16px;line-height:1;font-family:'NotoSans Nerd Font';-inkscape-font-specification:'NotoSans Nerd Font Extra-Condensed';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:76;display:inline"
@@ -3321,7 +3321,7 @@
          inkscape:label="♯"><tspan
            x="414.76398"
            y="359.81339"
-           id="tspan276">♯</tspan></text>
+           id="tspan179">♯</tspan></text>
       <use
          x="0"
          y="0"
@@ -3356,7 +3356,7 @@
          inkscape:label="♭"><tspan
            x="414.76398"
            y="359.81339"
-           id="tspan277">♭</tspan></text>
+           id="tspan180">♭</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:extra-condensed;font-size:16px;line-height:1;font-family:'NotoSans Nerd Font';-inkscape-font-specification:'NotoSans Nerd Font Extra-Condensed';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:76;display:inline"
@@ -3367,7 +3367,7 @@
          inkscape:label="♯"><tspan
            x="414.76398"
            y="359.81339"
-           id="tspan278">♯</tspan></text>
+           id="tspan181">♯</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:extra-condensed;font-size:16px;line-height:1;font-family:'NotoSans Nerd Font';-inkscape-font-specification:'NotoSans Nerd Font Extra-Condensed';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:76;display:inline"
@@ -3378,7 +3378,7 @@
          inkscape:label="♭"><tspan
            x="414.76398"
            y="359.81339"
-           id="tspan279">♭</tspan></text>
+           id="tspan182">♭</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:extra-condensed;font-size:16px;line-height:1;font-family:'NotoSans Nerd Font';-inkscape-font-specification:'NotoSans Nerd Font Extra-Condensed';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:76;display:inline"
@@ -3389,7 +3389,7 @@
          inkscape:label="♯"><tspan
            x="414.76398"
            y="359.81339"
-           id="tspan280">♯</tspan></text>
+           id="tspan183">♯</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:extra-condensed;font-size:16px;line-height:1;font-family:'NotoSans Nerd Font';-inkscape-font-specification:'NotoSans Nerd Font Extra-Condensed';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:76;display:inline"
@@ -3400,7 +3400,7 @@
          inkscape:label="♭"><tspan
            x="414.76398"
            y="359.81339"
-           id="tspan281">♭</tspan></text>
+           id="tspan184">♭</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:extra-condensed;font-size:16px;line-height:1;font-family:'NotoSans Nerd Font';-inkscape-font-specification:'NotoSans Nerd Font Extra-Condensed';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:76;display:inline"
@@ -3411,7 +3411,7 @@
          inkscape:label="♯"><tspan
            x="414.76398"
            y="359.81339"
-           id="tspan282">♯</tspan></text>
+           id="tspan185">♯</tspan></text>
       <use
          x="0"
          y="0"
@@ -3458,7 +3458,7 @@
            inkscape:label="readable"><tspan
              x="414.76398"
              y="359.81339"
-             id="tspan283">axis of symmetry</tspan></text>
+             id="tspan186">axis of symmetry</tspan></text>
         <text
            xml:space="preserve"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:extra-condensed;font-size:10.6667px;line-height:1;font-family:'NotoSans Nerd Font';-inkscape-font-specification:'NotoSans Nerd Font Extra-Condensed';text-align:center;writing-mode:tb-rl;direction:ltr;text-anchor:middle;white-space:pre;inline-size:76;display:inline;opacity:0.6"
@@ -3469,7 +3469,7 @@
            inkscape:label="mirrored"><tspan
              x="414.76398"
              y="359.81339"
-             id="tspan284">axis of symmetry</tspan></text>
+             id="tspan187">axis of symmetry</tspan></text>
       </g>
       <text
          xml:space="preserve"
@@ -3481,31 +3481,31 @@
          inkscape:label="copyright"><tspan
            x="587.34943"
            y="415.14166"
-           id="tspan285">Heptatonic circle (v1.1.1)
+           id="tspan188">Heptatonic circle (v1.1.1)
 </tspan><tspan
            x="587.34943"
            y="423.14167"
-           id="tspan286">© 2025 by Maronarius
+           id="tspan189">© 2025 by Maronarius
 </tspan><tspan
            x="587.34943"
            y="431.14167"
-           id="tspan287">is licensed under CC BY-SA 4.0.
+           id="tspan190">is licensed under CC BY-SA 4.0.
 </tspan><tspan
            x="587.34943"
            y="439.14167"
-           id="tspan288">To view a copy of this license, visit
+           id="tspan191">To view a copy of this license, visit
 </tspan><tspan
            x="587.34943"
            y="447.14167"
-           id="tspan289">https://creativecommons.org/licenses/by-sa/4.0/
+           id="tspan192">https://creativecommons.org/licenses/by-sa/4.0/
 </tspan><tspan
            x="587.34943"
            y="455.14167"
-           id="tspan290">
+           id="tspan193">
 </tspan><tspan
            x="587.34943"
            y="463.14167"
-           id="tspan291">SVG is available here: github.com/maronarius/heptatonic-circle</tspan></text>
+           id="tspan194">SVG is available here: github.com/maronarius/heptatonic-circle</tspan></text>
     </g>
   </g>
   <!-- default stroke -->
